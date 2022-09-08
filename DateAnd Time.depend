@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1639576261 source:c:\users\thulani\onedrive\documents\dateand time\dateandtime.cpp
+	"dateandtime.h"
+
+1639576431 c:\users\thulani\onedrive\documents\dateand time\dateandtime.h
+	<iostream>
+	<ctime>
+
+1639576431 source:c:\users\thulani\onedrive\documents\dateand time\main.cpp
+	<iostream>
+	<ctime>
+	"dateandtime.h"
+
+1639576507 source:c:\users\thulani\onedrive\documents\c++ functions\dateand time\dateandtime.cpp
+	"dateandtime.h"
+
+1639576431 c:\users\thulani\onedrive\documents\c++ functions\dateand time\dateandtime.h
+	<iostream>
+	<ctime>
+
+1640438953 source:c:\users\thulani\onedrive\documents\c++ functions\dateand time\main.cpp
+	<iostream>
+	<ctime>
+	"dateandtime.h"
+
